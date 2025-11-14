@@ -7,7 +7,7 @@ WASD - To move
 
 E - To interact
 
-R - To reset to lates checkpoint
+R - To reset to latest checkpoint
 
 Demo video here -> https://www.youtube.com/watch?v=W9FfEknWV-Y
 
