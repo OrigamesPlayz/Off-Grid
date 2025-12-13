@@ -18,3 +18,5 @@ I enjoyed creating the mechanics for the game such as the fact that the player m
 Creating this game really made me learn 2D game making since usually i create 3D games.
 
 I created this using the Unity game engine and i used some assets for the camera effects to make a sort of bugged version of the game.
+
+Most of the hours spent on the game was making the levels as I only just started to understand how tilemaps worked and after that i started making levels and also took time figuring out how shader scripts work. THIS IS ALL TO PASS FRAUD CHECK SINCE APPARENTLY I HAVE IT.
